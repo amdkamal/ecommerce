@@ -1,0 +1,34 @@
+.brand {
+  font-weight: 700;
+  font-size: 39px;
+  line-height: 120%;
+  letter-spacing: 0.005em;
+  color: #f86338;
+}
+.navbar-header {
+  padding: 1rem 0.5rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+nav {
+  padding: 1rem 0.5rem;
+}
+.nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.nav a {
+  margin: 0 10px;
+}
+
+.nav a img {
+  display: inline;
+}
+
+.nav-icons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

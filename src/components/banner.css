@@ -1,0 +1,11 @@
+.banner {
+  padding-top: 50px;
+  padding-bottom: 100px;
+  margin-bottom: 50px;
+}
+.banner h1 {
+  font-size: 64px;
+}
+.banner-obj {
+  max-width: 600px;
+}

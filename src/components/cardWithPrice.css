@@ -1,0 +1,33 @@
+.card {
+  background-color: #fff;
+  max-width: 424px;
+  padding: 15px;
+}
+.card-image {
+  max-height: 275px;
+  overflow: hidden;
+}
+.card-image img {
+  width: 100%;
+  max-height: 275px;
+  object-fit: contain;
+}
+.card-info {
+  margin-top: 10px;
+  text-align: center;
+}
+.card-title {
+  font-weight: 700;
+  font-size: 24px;
+}
+.card-category {
+  margin-top: 5px;
+  font-size: 14px;
+  color: #9a9ab0;
+}
+.card-price {
+  margin-top: 5px;
+  font-size: 18px;
+  font-weight: 700;
+  color: #f3692e;
+}
